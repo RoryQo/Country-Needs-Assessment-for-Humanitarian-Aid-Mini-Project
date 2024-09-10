@@ -1,4 +1,4 @@
-# Country-Socioeconomic-Aid-Lab
+# Country-Socioeconomic-Aid-Mini-Project
 #### Context
 HELP International is an international humanitarian Non-Governmental Organization (NGO) that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities.
 
