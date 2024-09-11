@@ -4,12 +4,14 @@ HELP International is an international humanitarian Non-Governmental Organizatio
 
 HELP International have been able to raise around $10 million. Now HELP international needs to decide how to use this money strategically and effectively. Hence, our job is to categorize the countries using some socio-economic and health factors that determine the overall development of the country. Then we can suggest the countries which HELP needs to focus on the most.
 
-#### Methodology
+#### Results
 
-  After visualizing, we can see the data is highly correlated.  Since we have highly correlated data we will continue with Principal component analysis.  We will create clusters from the PCA to determine the countries HELP should focus on.  From our plot, we can see that 3 is the optimal amount of clusters, and from these clusters, we can see that the PAM clustering is superior to k means clustering, as it is more resilient to the outliers.
+  After viewing the correlation matrix, we can see the data is highly correlated; because of this, we continue with Principal component analysis. We then create clusters from the PCA to determine the countries HELP should focus on. From our plot, we can see that 3 is the optimal number of clusters, and from these clusters, we can see that the PAM clustering is superior to k means clustering, as it is more resilient to outliers.
+  After we separated the countries into clusters, we created data visualizations factored by cluster, with some of the top contributors from the PCA (child mortality, income, and life expectancy). These visualizations show that cluster 1 is consistently (and statistically significantly) worse off than the other 2. The countries in this cluster are the ones that HELP should focus on.  Cluster 1 has 51 countries in it.  
+  To further sort by priority in the cluster, we can order by child mortality since it has the highest explanatory power of the PCA components or create a need score by weighting the top contributors according to their importance in the PCA.  After sorting by child mortality rate the top countries to focus on are Haiti, Lesotho, Central African Republic, Zambia, and malwai
+  
 
-+  From our PCA it appears that life expectancy, child mortality, income, and gdp per capita are among the highest contributors in explaining the variance between countries.
-+ After only 5 components we reach target proportion explained, after 6 it begins to level off and look like additional components wont add that much explanatory power
+
 #### Data
 + `country` : Name of the country
 + `child_mort` : Death of children under 5 years of age per 1000 live births
