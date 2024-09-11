@@ -4,6 +4,8 @@ HELP International is an international humanitarian Non-Governmental Organizatio
 
 HELP International have been able to raise around $10 million. Now HELP international needs to decide how to use this money strategically and effectively. Hence, our job is to categorize the countries using some socio-economic and health factors that determine the overall development of the country. Then we can suggest the countries which HELP needs to focus on the most.
 #### Results
+
+After visualizing, we can see the data is highly correlated.  Since we have highly correlated data we will continue with Principal component analysis.  From our PCA it appears that life expectancy, child mortality, income, and gdp per capita are among the highest contributors in explaining the variance between countries.  We will create clusters from the PCA to determine the countries HELP should focus on.  From our plot we 
 + From scree plot it appears 3 is the optimal number of clusters
 
 + It appears that PAM will be better, as it is more resistent to outliers in the dataset
