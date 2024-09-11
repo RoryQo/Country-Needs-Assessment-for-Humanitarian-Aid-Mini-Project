@@ -3,7 +3,13 @@
 HELP International is an international humanitarian Non-Governmental Organization (NGO) that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities.
 
 HELP International have been able to raise around $10 million. Now HELP international needs to decide how to use this money strategically and effectively. Hence, our job is to categorize the countries using some socio-economic and health factors that determine the overall development of the country. Then we can suggest the countries which HELP needs to focus on the most.
+#### Results
++ From scree plot it appears 3 is the optimal number of clusters
 
++ It appears that PAM will be better, as it is more resistent to outliers in the dataset
++ From PCA it appears, life expectancy, income, child mortality, and total fertility are the most important contributors
+
++ After only 5 components we reach target proportion explained, after 6 it begins to level off and look like additional components wont add that much explanatory power
 #### Data
 + `country` : Name of the country
 + `child_mort` : Death of children under 5 years of age per 1000 live births
