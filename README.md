@@ -6,8 +6,9 @@ HELP International have been able to raise around $10 million. Now HELP internat
 
 #### Methodology
 
-  After visualizing, we can see the data is highly correlated.  Since we have highly correlated data we will continue with Principal component analysis.  From our PCA it appears that life expectancy, child mortality, income, and gdp per capita are among the highest contributors in explaining the variance between countries.  We will create clusters from the PCA to determine the countries HELP should focus on.  From our plot, we can see that 3 is the optimal amount of clusters, and from these clusters, we can see that the PAM clustering is superior to k means clustering, as it is more resilient to the outliers.
+  After visualizing, we can see the data is highly correlated.  Since we have highly correlated data we will continue with Principal component analysis.  We will create clusters from the PCA to determine the countries HELP should focus on.  From our plot, we can see that 3 is the optimal amount of clusters, and from these clusters, we can see that the PAM clustering is superior to k means clustering, as it is more resilient to the outliers.
 
++  From our PCA it appears that life expectancy, child mortality, income, and gdp per capita are among the highest contributors in explaining the variance between countries.
 + After only 5 components we reach target proportion explained, after 6 it begins to level off and look like additional components wont add that much explanatory power
 #### Data
 + `country` : Name of the country
