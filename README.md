@@ -1,4 +1,5 @@
-# Country-Socioeconomic-Aid-Mini-Project
+# Country-Socio-economic-Aid-Mini-Project
+
 #### Context
 HELP International is an international humanitarian Non-Governmental Organization (NGO) that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities.
 
@@ -7,8 +8,10 @@ HELP International have been able to raise around $10 million. Now HELP internat
 #### Results
 
   After viewing the correlation matrix, we can see the data is highly correlated; because of this, we continue with Principal component analysis. We then create clusters from the PCA to determine the countries HELP should focus on. From our plot, we can see that 3 is the optimal number of clusters, and from these clusters, we can see that the PAM clustering is superior to k means clustering, as it is more resilient to outliers.
+  
   After we separated the countries into clusters, we created data visualizations factored by cluster, with some of the top contributors from the PCA (child mortality, income, and life expectancy). These visualizations show that cluster 1 is consistently (and statistically significantly) worse off than the other 2. The countries in this cluster are the ones that HELP should focus on.  Cluster 1 has 51 countries in it.  
-  To further sort by priority in the cluster, we can order by child mortality since it has the highest explanatory power of the PCA components or create a need score by weighting the top contributors according to their importance in the PCA.  After sorting by child mortality rate the top countries to focus on are Haiti, Lesotho, Central African Republic, Zambia, and malwai
+  
+  To further sort by priority in the cluster, we can order by child mortality since it has the highest explanatory power of the PCA components or create a need score by weighting the key factors that are important to the campaign.  After sorting by child mortality rate the top countries to focus on are Haiti, Lesotho, Central African Republic, Zambia, and Malwai.
   
 
 
