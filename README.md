@@ -14,9 +14,9 @@ HELP International have been able to raise around $10 million. Now HELP Internat
 #### Data
 + `country` : Name of the country
 + `child_mort` : Death of children under 5 years of age per 1000 live births
-+ `exports` : Exports of goods and services per capita. Given as percentage of the GDP per capita
-+ `health` : Total health spending per capita. Given as percentage of GDP per capita
-+ `imports` : Imports of goods and services per capita. Given as percentage of the GDP per capita
++ `exports` : Exports of goods and services per capita. Given as a percentage of the GDP per capita
++ `health` : Total health spending per capita. Given as a percentage of GDP per capita
++ `imports` : Imports of goods and services per capita. Given as a percentage of the GDP per capita
 + `Income` : Net income per person
 + `Inflation` : The measurement of the annual growth rate of the Total GDP
 + `life_expec` : The average number of years a new born child would live if the current mortality patterns are to remain the same
