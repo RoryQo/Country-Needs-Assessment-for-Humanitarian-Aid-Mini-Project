@@ -2,20 +2,25 @@
 
 <br>
 
-## Table of Contents
 
-<div align="center" style="display: flex; justify-content: center;">
-
-<div style="margin-right: 50px;">
-- [Context](#context)  
-- [Results](#results)  
-</div>
-
-<div>
-- [Data](#data)  
-- [Usage](#usage)  
-</div>
-
+### Table of Contents
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <ol>
+                    <li><a href="#context">Context</a></li>
+                    <li><a href="#results">Results</a></li>
+                </ol>
+            </td>
+            <td>
+                <ol start="3">
+                    <li><a href="#data">Data</a></li>
+                    <li><a href="#usage">Usage</a></li>
+                </ol>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ### Context
