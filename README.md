@@ -3,19 +3,19 @@
 <br>
 
 ### Table of Contents
+
 <div align="center" style="display: flex; justify-content: center;">
-    <div style="margin-right: 40px;">
-        <ul style="list-style-type: none; padding: 0;">
-            <li><a href="#context">Context</a></li>
-            <li><a href="#results">Results</a></li>
-        </ul>
-    </div>
-    <div>
-        <ul style="list-style-type: none; padding: 0;">
-            <li><a href="#data">Data</a></li>
-            <li><a href="#usage">Usage</a></li>
-        </ul>
-    </div>
+
+<div style="margin-right: 50px;">
+- [Context](#context)  
+- [Results](#results)  
+</div>
+
+<div>
+- [Data](#data)  
+- [Usage](#usage)  
+</div>
+
 </div>
 
 ### Context
