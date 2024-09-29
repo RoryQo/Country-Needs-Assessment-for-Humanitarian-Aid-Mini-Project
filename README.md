@@ -1,4 +1,4 @@
-# Country Needs Assessment for Humanitarian Aid Mini Project
+<h1 align="center">Country-Needs-Assessment-for-Humanitarian-Aid-Mini-Project</h1>
 
 ## Table of Contents
 1. [Context](#context)
