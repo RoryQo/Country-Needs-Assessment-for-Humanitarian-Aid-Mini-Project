@@ -1,5 +1,4 @@
-# Country Aid Mini Project
-<div align="center">
+# <div align="center">Country Aid Mini Project</div>
 
 ## Table of Contents
 1. [Overview](#overview)
