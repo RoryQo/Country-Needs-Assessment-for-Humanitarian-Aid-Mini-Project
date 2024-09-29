@@ -4,11 +4,11 @@
 
 
 ###  Table of Contents
-### Table of Contents
 1. [Context](#context)
 2. [Results](#results)
 3. [Data](#data)
 4. [Usage](#usage)
+
 ### Context
 HELP International is an international humanitarian Non-Governmental Organization (NGO) committed to fighting poverty and providing people in underdeveloped countries with basic amenities and relief during disasters and natural calamities.
 
