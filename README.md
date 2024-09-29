@@ -3,17 +3,17 @@
 <br>
 
 
-### Table of Contents
+###  Table of Contents
 <div align="center">
-    <table>
+    <table style="border:none;">
         <tr>
-            <td>
+            <td style="border:none;">
                 <ol>
                     <li><a href="#context">Context</a></li>
                     <li><a href="#results">Results</a></li>
                 </ol>
             </td>
-            <td>
+            <td style="border:none;">
                 <ol start="3">
                     <li><a href="#data">Data</a></li>
                     <li><a href="#usage">Usage</a></li>
