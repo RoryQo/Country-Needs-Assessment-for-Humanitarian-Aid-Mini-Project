@@ -1,6 +1,8 @@
 <h1 align="center">Country-Needs-Assessment-for-Humanitarian-Aid-Mini-Project</h1>
 
-## Table of Contents
+<br>
+
+### Table of Contents
 1. [Context](#context)
 2. [Results](#results)
 3. [Data](#data)
