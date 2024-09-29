@@ -4,22 +4,13 @@
 
 ### Table of Contents
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <ol>
-                    <li><a href="#context">Context</a></li>
-                    <li><a href="#results">Results</a></li>
-                </ol>
-            </td>
-            <td>
-                <ol start="3">
-                    <li><a href="#data">Data</a></li>
-                    <li><a href="#usage">Usage</a></li>
-                </ol>
-            </td>
-        </tr>
-    </table>
+    <ol style="list-style-type: none;">
+        <li style="display: inline; padding: 0 20px;"><a href="#context">Context</a></li>
+        <li style="display: inline; padding: 0 20px;"><a href="#results">Results</a></li>
+        <li style="display: inline; padding: 0 20px;"><a href="#data">Data</a></li>
+        <li style="display: inline; padding: 0 20px;"><a href="#usage">Usage</a></li>
+    </ol>
+</div>
 </div>
 
 ### Context
