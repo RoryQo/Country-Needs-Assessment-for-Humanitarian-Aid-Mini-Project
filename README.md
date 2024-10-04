@@ -4,7 +4,7 @@
 1. [Overview](#overview)
 2. [Results and Conclusions](#results-and-conclusions)
 3. [Data](#data)
-4. [Methodology/Usage](#methodology-usage)
+4. [Methodology/Usage](#methodologyusage)
 
 ## Overview
 HELP International is a humanitarian non-governmental organization (NGO) committed to alleviating poverty and providing essential relief during disasters and natural calamities. With approximately $10 million raised, the organization aims to strategically allocate these funds to maximize impact in the most vulnerable regions.
