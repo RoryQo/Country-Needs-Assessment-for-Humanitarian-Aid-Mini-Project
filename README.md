@@ -4,7 +4,7 @@
 1. [Overview](#overview)
 2. [Results and Conclusions](#results-and-conclusions)
 3. [Data](#data)
-4. [Usage](#usage)
+4. [Methodology/Usage](#usage)
 
 ## Overview
 HELP International is a humanitarian non-governmental organization (NGO) committed to alleviating poverty and providing essential relief during disasters and natural calamities. With approximately $10 million raised, the organization aims to strategically allocate these funds to maximize impact in the most vulnerable regions.
@@ -38,7 +38,7 @@ These findings underscore the urgent need for targeted interventions in countrie
 - **total_fer**: Average number of children that would be born to each woman if current age-fertility rates remain constant
 - **gdpp**: GDP per capita, calculated as Total GDP divided by total population
 
-## Usage
+## Methodology/Usage
 To utilize the R code for this project, ensure you have the required packages installed. You can then read the data file, conduct exploratory data analysis, visualize with PCA, and perform clustering to assess the countries' needs.
 
 The workflow includes:
