@@ -4,7 +4,7 @@
 1. [Overview](#overview)
 2. [Project Objectives](#project-objectives)
 3. [Results and Conclusions](#results-and-conclusions)
-4. [Data Description](#data-description)
+4. [Data Description](#data-description) 
 5. [Methodology](#methodology)
 6. [Usage Instructions](#usage-instructions)
 7. [Visualizations](#visualizations)
